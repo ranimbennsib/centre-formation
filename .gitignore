@@ -1,0 +1,7 @@
+*.log
+test*.html
+generateur-hash-seul.php
+backend/test-debug.php
+backend/api/admin/employes/test.php
+backend/api/admin/employes/test_recherche.php
+backend/api/formateurs/test.php
